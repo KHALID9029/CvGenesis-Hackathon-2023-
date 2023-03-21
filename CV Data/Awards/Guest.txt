@@ -1,0 +1,2 @@
+1.Hackathon,Coderush,IUT,26-7-1928
+2.CTF,Coderush,IUT,26-7-1928
